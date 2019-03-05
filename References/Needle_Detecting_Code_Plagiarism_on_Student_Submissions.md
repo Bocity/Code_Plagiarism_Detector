@@ -61,7 +61,8 @@ return sum;
 例如，moss[14]将程序总结为其n-gram token分布；gplag[9]通过其依赖关系图总结程序。程序之间的相似性被认为是子图同构问题，通过启发式搜索解决，现有的代码克隆检测技术[2，6]也可以应用于代码剽窃检测。对这些工具进行了研究[8]和改进[4、5、11]。
 
 ## 3 AUTOMATED CODE PLAGIARISM DETECTION
-### 
+### 3.1 Observations and Insights
+为了自动识别可能会发生变化的抄袭副本，我们利用以下观察结果： 
 
 
 
