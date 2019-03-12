@@ -1,4 +1,4 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 # Needle: Detecting Code Plagiarism on Student Submissions###Yanyan Jiang  
 - jyy@nju.edu.cn 
 - State Key Laboratory for Novel Software Technology, Nanjing University### Chang Xu 
