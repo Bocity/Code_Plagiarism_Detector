@@ -6,3 +6,6 @@ There are translated references in References/
 
 ## use
 > import detector
+
+## team member
+Hao Jin, Xu Xiang, Xue Yuwen
